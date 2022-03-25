@@ -7,11 +7,18 @@ Esta é a outra linha que eu escrevi
 
 Algumas linguagens que conheço são
 - Java
-- C#
 - Python
 - C++
+- -Ruby
+- COBOL
 
 Fim do Arquivo
 
 
 Não esquecer do comentário
+
+
+
+
+
+MAIS UMA ALTERAÇÃO
